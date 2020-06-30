@@ -72,19 +72,19 @@ namespace PruebaNet2
             {
                 a = 22000;
             }
-            else if (checkBox2.Checked)
+            if (checkBox2.Checked)
             {
                 b = 12000;
             }
-            else if (checkBox3.Checked)
+            if (checkBox3.Checked)
             {
                 c = 8000;
             }
-            else if (checkBox4.Checked)
+            if (checkBox4.Checked)
             {
                 d = 1500;
             }
-            else if (checkBox5.Checked)
+            if (checkBox5.Checked)
             {
                 f= 5000;
             }
