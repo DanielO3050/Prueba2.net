@@ -1,0 +1,11 @@
+C:\Users\Daniel\source\repos\PruebaNet2\PruebaNet2\bin\Debug\PruebaNet2.exe.config
+C:\Users\Daniel\source\repos\PruebaNet2\PruebaNet2\bin\Debug\PruebaNet2.exe
+C:\Users\Daniel\source\repos\PruebaNet2\PruebaNet2\bin\Debug\PruebaNet2.pdb
+C:\Users\Daniel\source\repos\PruebaNet2\PruebaNet2\obj\Debug\PruebaNet2.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\PruebaNet2\PruebaNet2\obj\Debug\PruebaNet2.Form1.resources
+C:\Users\Daniel\source\repos\PruebaNet2\PruebaNet2\obj\Debug\PruebaNet2.Properties.Resources.resources
+C:\Users\Daniel\source\repos\PruebaNet2\PruebaNet2\obj\Debug\PruebaNet2.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\PruebaNet2\PruebaNet2\obj\Debug\PruebaNet2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\PruebaNet2\PruebaNet2\obj\Debug\PruebaNet2.exe
+C:\Users\Daniel\source\repos\PruebaNet2\PruebaNet2\obj\Debug\PruebaNet2.pdb
+C:\Users\Daniel\source\repos\PruebaNet2\PruebaNet2\obj\Debug\PruebaNet2.Form2.resources
